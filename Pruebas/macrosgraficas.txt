@@ -1,0 +1,131 @@
+Sub Macro2()
+'
+' Macro2 Macro
+'
+
+'
+    Dim i As Integer
+    Dim Anterior As Integer
+    Dim Actual As Integer
+    Dim RenglonAnterior As Integer
+    
+    i = 1
+    
+    RenglonAnterior = i
+    Anterior = 0
+    Actual = 0
+    Do
+        Worksheets("H0001").Activate
+        Range("E" & Format(i)).Select
+        
+        Actual = Worksheets("H0001").Cells(i, 5).Value
+        If Actual < Anterior Then
+            'MsgBox i & "," & Actual & "," & Anterior
+            
+            Range("A" & Format(RenglonAnterior) & ":R" & Format(i - 1)).Select
+            RenglonAnterior = i
+            'Selection.End(xlToRight).Select
+            'Range(Selection, Cells(1)).Select
+            Selection.Copy
+            Sheets.Add After:=Sheets(Sheets.Count)
+            ActiveSheet.Paste
+        
+
+    Columns("E:G").Select
+    ActiveSheet.Shapes.AddChart.Select
+    ActiveChart.ChartType = xlXYScatter
+    ActiveChart.SetSourceData Source:=Range("$E:$I")
+    ActiveChart.SeriesCollection(1).Select
+    With Selection
+        .MarkerStyle = 8
+        .MarkerSize = 2
+    End With
+    'Selection.MarkerStyle = 8
+    'Selection.MarkerSize = 8
+    'Selection.MarkerSize = 7
+    'Selection.MarkerSize = 6
+    'Selection.MarkerSize = 5
+    'Selection.MarkerSize = 4
+    'Selection.MarkerSize = 3
+    'Selection.MarkerSize = 2
+    ActiveChart.SeriesCollection(2).Select
+    With Selection
+        .MarkerStyle = 8
+        .MarkerSize = 2
+    End With
+    ActiveChart.SeriesCollection(3).Select
+    With Selection
+        .MarkerStyle = 6
+        .MarkerSize = 2
+    End With
+    ActiveChart.SeriesCollection(4).Select
+    With Selection
+        .MarkerStyle = 6
+        .MarkerSize = 2
+    End With
+    
+    
+    'Selection.MarkerStyle = 8
+    'Selection.MarkerSize = 6
+    'Selection.MarkerSize = 5
+    'Selection.MarkerSize = 4
+    'Selection.MarkerSize = 3
+    'Selection.MarkerSize = 2
+    ActiveChart.Legend.Select
+    Selection.Delete
+        
+        End If
+        Anterior = Actual
+        i = i + 1
+    Loop Until Len(Worksheets("H0001").Cells(i - 1, 5).Value) = 0
+End Sub
+Sub Macro3()
+'
+' Macro3 Macro
+'
+
+'
+    'Columns("E:G").Select
+    ActiveSheet.Shapes.AddChart.Select
+    ActiveChart.ChartType = xlXYScatter
+    ActiveChart.SetSourceData Source:=Range("$E:$I")
+    ActiveChart.SeriesCollection(1).Select
+    With Selection
+        .MarkerStyle = 8
+        .MarkerSize = 2
+    End With
+    'Selection.MarkerStyle = 8
+    'Selection.MarkerSize = 8
+    'Selection.MarkerSize = 7
+    'Selection.MarkerSize = 6
+    'Selection.MarkerSize = 5
+    'Selection.MarkerSize = 4
+    'Selection.MarkerSize = 3
+    'Selection.MarkerSize = 2
+    ActiveChart.SeriesCollection(2).Select
+    With Selection
+        .MarkerStyle = 8
+        .MarkerSize = 2
+    End With
+    ActiveChart.SeriesCollection(3).Select
+    With Selection
+        .MarkerStyle = 6
+        .MarkerSize = 2
+    End With
+    ActiveChart.SeriesCollection(4).Select
+    With Selection
+        .MarkerStyle = 6
+        .MarkerSize = 2
+    End With
+    
+    
+    'Selection.MarkerStyle = 8
+    'Selection.MarkerSize = 6
+    'Selection.MarkerSize = 5
+    'Selection.MarkerSize = 4
+    'Selection.MarkerSize = 3
+    'Selection.MarkerSize = 2
+    ActiveChart.Legend.Select
+    Selection.Delete
+End Sub
+
