@@ -1,4 +1,11 @@
+<br/>
+<p align="center">
+  <img src="https://avatars2.githubusercontent.com/u/15052789?v=3&s=200">
+</p>
+<br/>
+
 # sec-challenge
+
 ## Fecha
 * 2014
 
@@ -15,7 +22,7 @@
 
 ## Autores
 * emmanuel156
-* pedrohh
+* pedrohermon
 
 ## Comentarios:
 * Ninguno
