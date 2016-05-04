@@ -13,3 +13,7 @@
 * Manuales de usuario de componentes
 
 * Documentacion de funciones, herramientas
+
+---
+![PID_Compensation_Animated.gif](/Historial/PID_Compensation_Animated.gif)
+---

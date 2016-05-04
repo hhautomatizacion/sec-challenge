@@ -13,3 +13,7 @@
 * Diagramas de bloques
 
 * Dibujos
+
+---
+![posiciones secadora.png](/Diagramas/posiciones secadora.png)
+---
