@@ -13,10 +13,6 @@
 * Capturas de pantalla
 
 ---
-![arrow_left.png](/Fotos/arrow_left.png)
----
-![arrow_right.png](/Fotos/arrow_right.png)
----
 ![Captura de pantalla 2015-10-11 00.18.39.png](/Fotos/Captura de pantalla 2015-10-11 00.18.39.png)
 ---
 ![Captura de pantalla 2015-12-03 10.02.41.png](/Fotos/Captura de pantalla 2015-12-03 10.02.41.png)
@@ -57,14 +53,6 @@
 ---
 ![Captura de pantalla 2015-12-03 15.04.10.png](/Fotos/Captura de pantalla 2015-12-03 15.04.10.png)
 ---
-![check.png](/Fotos/check.png)
----
-![close.png](/Fotos/close.png)
----
-![config.png](/Fotos/config.png)
----
-![delete_row.png](/Fotos/delete_row.png)
----
 ![DSC03655.JPG](/Fotos/DSC03655.JPG)
 ---
 ![DSC03656.JPG](/Fotos/DSC03656.JPG)
@@ -76,6 +64,18 @@
 ![DSC03659.JPG](/Fotos/DSC03659.JPG)
 ---
 ![DSC03660.JPG](/Fotos/DSC03660.JPG)
+---
+![arrow_left.png](/Fotos/arrow_left.png)
+---
+![arrow_right.png](/Fotos/arrow_right.png)
+---
+![check.png](/Fotos/check.png)
+---
+![close.png](/Fotos/close.png)
+---
+![config.png](/Fotos/config.png)
+---
+![delete_row.png](/Fotos/delete_row.png)
 ---
 ![edit.png](/Fotos/edit.png)
 ---
