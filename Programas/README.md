@@ -115,33 +115,57 @@
 ---
 ![arrow_left.ico](/Programas/iconos v3/arrow_left.ico)
 ---
+![arrow_left.png](/Programas/iconos v3/arrow_left.png)
+---
 ![arrow_right.ico](/Programas/iconos v3/arrow_right.ico)
+---
+![arrow_right.png](/Programas/iconos v3/arrow_right.png)
 ---
 ![backward.ico](/Programas/iconos v3/backward.ico)
 ---
 ![check.ico](/Programas/iconos v3/check.ico)
 ---
+![check.png](/Programas/iconos v3/check.png)
+---
 ![close.ico](/Programas/iconos v3/close.ico)
+---
+![close.png](/Programas/iconos v3/close.png)
 ---
 ![config.ico](/Programas/iconos v3/config.ico)
 ---
+![config.png](/Programas/iconos v3/config.png)
+---
 ![delete_row.ico](/Programas/iconos v3/delete_row.ico)
+---
+![delete_row.png](/Programas/iconos v3/delete_row.png)
 ---
 ![edit.ico](/Programas/iconos v3/edit.ico)
 ---
+![edit.png](/Programas/iconos v3/edit.png)
+---
 ![flashdisk.ico](/Programas/iconos v3/flashdisk.ico)
+---
+![flashdisk.png](/Programas/iconos v3/flashdisk.png)
 ---
 ![forward.ico](/Programas/iconos v3/forward.ico)
 ---
+![forward.png](/Programas/iconos v3/forward.png)
+---
 ![insert_row.ico](/Programas/iconos v3/insert_row.ico)
 ---
+![insert_row.png](/Programas/iconos v3/insert_row.png)
+---
 ![next.ico](/Programas/iconos v3/next.ico)
+---
+![next.png](/Programas/iconos v3/next.png)
 ---
 ![pause.ico](/Programas/iconos v3/pause.ico)
 ---
 ![pendrive.ico](/Programas/iconos v3/pendrive.ico)
 ---
 ![play.ico](/Programas/iconos v3/play.ico)
+---
+![play.png](/Programas/iconos v3/play.png)
 ---
 ![previous.ico](/Programas/iconos v3/previous.ico)
 ---
@@ -153,13 +177,25 @@
 ---
 ![stop.ico](/Programas/iconos v3/stop.ico)
 ---
+![stop.png](/Programas/iconos v3/stop.png)
+---
 ![table.ico](/Programas/iconos v3/table.ico)
+---
+![table.png](/Programas/iconos v3/table.png)
 ---
 ![table_edit.ico](/Programas/iconos v3/table_edit.ico)
 ---
+![table_edit.png](/Programas/iconos v3/table_edit.png)
+---
 ![table_erase.ico](/Programas/iconos v3/table_erase.ico)
+---
+![table_erase.png](/Programas/iconos v3/table_erase.png)
 ---
 ![table_multiple.ico](/Programas/iconos v3/table_multiple.ico)
 ---
+![table_multiple.png](/Programas/iconos v3/table_multiple.png)
+---
 ![test.ico](/Programas/iconos v3/test.ico)
+---
+![test.png](/Programas/iconos v3/test.png)
 ---
