@@ -18,6 +18,7 @@
 
 ## Modelos PLC, etc
 * PLC LS Master K 120S K7M-DR40U
+* HMI Delta DOP B05S111
 * Modulo Analogo G7F-ADHA
 
 ## Autores
