@@ -15,5 +15,5 @@
 * Dibujos
 
 ---
-![posiciones secadora.png](/Diagramas/posiciones secadora.png)
+![posiciones secadora.png](/Diagramas/posiciones%20secadora.png)
 ---

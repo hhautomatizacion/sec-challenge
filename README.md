@@ -60,47 +60,47 @@
 		* Modelos de componentes que se hayan probado
 
 ---
-![posiciones secadora.png](/Diagramas/posiciones secadora.png)
+![posiciones secadora.png](/Diagramas/posiciones%20secadora.png)
 ---
-![Captura de pantalla 2015-10-11 00.18.39.png](/Fotos/Captura de pantalla 2015-10-11 00.18.39.png)
+![Captura de pantalla 2015-10-11 00.18.39.png](/Fotos/Captura%20de%20pantalla%202015-10-11%2000.18.39.png)
 ---
-![Captura de pantalla 2015-12-03 10.02.41.png](/Fotos/Captura de pantalla 2015-12-03 10.02.41.png)
+![Captura de pantalla 2015-12-03 10.02.41.png](/Fotos/Captura%20de%20pantalla%202015-12-03%2010.02.41.png)
 ---
-![Captura de pantalla 2015-12-03 14.47.43.png](/Fotos/Captura de pantalla 2015-12-03 14.47.43.png)
+![Captura de pantalla 2015-12-03 14.47.43.png](/Fotos/Captura%20de%20pantalla%202015-12-03%2014.47.43.png)
 ---
-![Captura de pantalla 2015-12-03 14.53.48.png](/Fotos/Captura de pantalla 2015-12-03 14.53.48.png)
+![Captura de pantalla 2015-12-03 14.53.48.png](/Fotos/Captura%20de%20pantalla%202015-12-03%2014.53.48.png)
 ---
-![Captura de pantalla 2015-12-03 14.54.10.png](/Fotos/Captura de pantalla 2015-12-03 14.54.10.png)
+![Captura de pantalla 2015-12-03 14.54.10.png](/Fotos/Captura%20de%20pantalla%202015-12-03%2014.54.10.png)
 ---
-![Captura de pantalla 2015-12-03 14.54.32.png](/Fotos/Captura de pantalla 2015-12-03 14.54.32.png)
+![Captura de pantalla 2015-12-03 14.54.32.png](/Fotos/Captura%20de%20pantalla%202015-12-03%2014.54.32.png)
 ---
-![Captura de pantalla 2015-12-03 14.55.09.png](/Fotos/Captura de pantalla 2015-12-03 14.55.09.png)
+![Captura de pantalla 2015-12-03 14.55.09.png](/Fotos/Captura%20de%20pantalla%202015-12-03%2014.55.09.png)
 ---
-![Captura de pantalla 2015-12-03 14.55.13.png](/Fotos/Captura de pantalla 2015-12-03 14.55.13.png)
+![Captura de pantalla 2015-12-03 14.55.13.png](/Fotos/Captura%20de%20pantalla%202015-12-03%2014.55.13.png)
 ---
-![Captura de pantalla 2015-12-03 14.55.18.png](/Fotos/Captura de pantalla 2015-12-03 14.55.18.png)
+![Captura de pantalla 2015-12-03 14.55.18.png](/Fotos/Captura%20de%20pantalla%202015-12-03%2014.55.18.png)
 ---
-![Captura de pantalla 2015-12-03 14.55.22.png](/Fotos/Captura de pantalla 2015-12-03 14.55.22.png)
+![Captura de pantalla 2015-12-03 14.55.22.png](/Fotos/Captura%20de%20pantalla%202015-12-03%2014.55.22.png)
 ---
-![Captura de pantalla 2015-12-03 14.57.56.png](/Fotos/Captura de pantalla 2015-12-03 14.57.56.png)
+![Captura de pantalla 2015-12-03 14.57.56.png](/Fotos/Captura%20de%20pantalla%202015-12-03%2014.57.56.png)
 ---
-![Captura de pantalla 2015-12-03 14.58.13.png](/Fotos/Captura de pantalla 2015-12-03 14.58.13.png)
+![Captura de pantalla 2015-12-03 14.58.13.png](/Fotos/Captura%20de%20pantalla%202015-12-03%2014.58.13.png)
 ---
-![Captura de pantalla 2015-12-03 14.58.29.png](/Fotos/Captura de pantalla 2015-12-03 14.58.29.png)
+![Captura de pantalla 2015-12-03 14.58.29.png](/Fotos/Captura%20de%20pantalla%202015-12-03%2014.58.29.png)
 ---
-![Captura de pantalla 2015-12-03 14.59.31.png](/Fotos/Captura de pantalla 2015-12-03 14.59.31.png)
+![Captura de pantalla 2015-12-03 14.59.31.png](/Fotos/Captura%20de%20pantalla%202015-12-03%2014.59.31.png)
 ---
-![Captura de pantalla 2015-12-03 14.59.51.png](/Fotos/Captura de pantalla 2015-12-03 14.59.51.png)
+![Captura de pantalla 2015-12-03 14.59.51.png](/Fotos/Captura%20de%20pantalla%202015-12-03%2014.59.51.png)
 ---
-![Captura de pantalla 2015-12-03 15.03.30.png](/Fotos/Captura de pantalla 2015-12-03 15.03.30.png)
+![Captura de pantalla 2015-12-03 15.03.30.png](/Fotos/Captura%20de%20pantalla%202015-12-03%2015.03.30.png)
 ---
-![Captura de pantalla 2015-12-03 15.03.36.png](/Fotos/Captura de pantalla 2015-12-03 15.03.36.png)
+![Captura de pantalla 2015-12-03 15.03.36.png](/Fotos/Captura%20de%20pantalla%202015-12-03%2015.03.36.png)
 ---
-![Captura de pantalla 2015-12-03 15.03.47.png](/Fotos/Captura de pantalla 2015-12-03 15.03.47.png)
+![Captura de pantalla 2015-12-03 15.03.47.png](/Fotos/Captura%20de%20pantalla%202015-12-03%2015.03.47.png)
 ---
-![Captura de pantalla 2015-12-03 15.04.00.png](/Fotos/Captura de pantalla 2015-12-03 15.04.00.png)
+![Captura de pantalla 2015-12-03 15.04.00.png](/Fotos/Captura%20de%20pantalla%202015-12-03%2015.04.00.png)
 ---
-![Captura de pantalla 2015-12-03 15.04.10.png](/Fotos/Captura de pantalla 2015-12-03 15.04.10.png)
+![Captura de pantalla 2015-12-03 15.04.10.png](/Fotos/Captura%20de%20pantalla%202015-12-03%2015.04.10.png)
 ---
 ![DSC03655.JPG](/Fotos/DSC03655.JPG)
 ---
@@ -116,185 +116,189 @@
 ---
 ![PID_Compensation_Animated.gif](/Historial/PID_Compensation_Animated.gif)
 ---
-![-10.ico](/Programas/iconos v3/-10.ico)
+![-10.ico](/Programas/iconos%20v3/-10.ico)
 ---
-![-10.png](/Programas/iconos v3/-10.png)
+![-10.png](/Programas/iconos%20v3/-10.png)
 ---
-![0.ico](/Programas/iconos v3/0.ico)
+![0.ico](/Programas/iconos%20v3/0.ico)
 ---
-![0.png](/Programas/iconos v3/0.png)
+![0.png](/Programas/iconos%20v3/0.png)
 ---
-![10.ico](/Programas/iconos v3/10.ico)
+![10.ico](/Programas/iconos%20v3/10.ico)
 ---
-![10.png](/Programas/iconos v3/10.png)
+![10.png](/Programas/iconos%20v3/10.png)
 ---
-![20.ico](/Programas/iconos v3/20.ico)
+![20.ico](/Programas/iconos%20v3/20.ico)
 ---
-![20.png](/Programas/iconos v3/20.png)
+![20.png](/Programas/iconos%20v3/20.png)
 ---
-![LOGO2.png](/Programas/iconos v3/LOGO2.png)
+![LOGO2.png](/Programas/iconos%20v3/LOGO2.png)
 ---
-![P00.jpg](/Programas/iconos v3/P00.jpg)
+![P00.jpg](/Programas/iconos%20v3/P00.jpg)
 ---
-![P01.jpg](/Programas/iconos v3/P01.jpg)
+![P01.jpg](/Programas/iconos%20v3/P01.jpg)
 ---
-![P02.jpg](/Programas/iconos v3/P02.jpg)
+![P02.jpg](/Programas/iconos%20v3/P02.jpg)
 ---
-![P03.jpg](/Programas/iconos v3/P03.jpg)
+![P03.jpg](/Programas/iconos%20v3/P03.jpg)
 ---
-![P04.jpg](/Programas/iconos v3/P04.jpg)
+![P04.jpg](/Programas/iconos%20v3/P04.jpg)
 ---
-![P05.jpg](/Programas/iconos v3/P05.jpg)
+![P05.jpg](/Programas/iconos%20v3/P05.jpg)
 ---
-![P06.jpg](/Programas/iconos v3/P06.jpg)
+![P06.jpg](/Programas/iconos%20v3/P06.jpg)
 ---
-![P07.jpg](/Programas/iconos v3/P07.jpg)
+![P07.jpg](/Programas/iconos%20v3/P07.jpg)
 ---
-![P08.jpg](/Programas/iconos v3/P08.jpg)
+![P08.jpg](/Programas/iconos%20v3/P08.jpg)
 ---
-![P09.jpg](/Programas/iconos v3/P09.jpg)
+![P09.jpg](/Programas/iconos%20v3/P09.jpg)
 ---
-![P0A.jpg](/Programas/iconos v3/P0A.jpg)
+![P0A.jpg](/Programas/iconos%20v3/P0A.jpg)
 ---
-![P0B.jpg](/Programas/iconos v3/P0B.jpg)
+![P0B.jpg](/Programas/iconos%20v3/P0B.jpg)
 ---
-![P0E.jpg](/Programas/iconos v3/P0E.jpg)
+![P0E.jpg](/Programas/iconos%20v3/P0E.jpg)
 ---
-![P0F.jpg](/Programas/iconos v3/P0F.jpg)
+![P0F.jpg](/Programas/iconos%20v3/P0F.jpg)
 ---
-![P10.jpg](/Programas/iconos v3/P10.jpg)
+![P10.jpg](/Programas/iconos%20v3/P10.jpg)
 ---
-![P11.jpg](/Programas/iconos v3/P11.jpg)
+![P11.jpg](/Programas/iconos%20v3/P11.jpg)
 ---
-![P12.jpg](/Programas/iconos v3/P12.jpg)
+![P12.jpg](/Programas/iconos%20v3/P12.jpg)
 ---
-![P13.jpg](/Programas/iconos v3/P13.jpg)
+![P13.jpg](/Programas/iconos%20v3/P13.jpg)
 ---
-![P14.jpg](/Programas/iconos v3/P14.jpg)
+![P14.jpg](/Programas/iconos%20v3/P14.jpg)
 ---
-![P15.jpg](/Programas/iconos v3/P15.jpg)
+![P15.jpg](/Programas/iconos%20v3/P15.jpg)
 ---
-![P16.jpg](/Programas/iconos v3/P16.jpg)
+![P16.jpg](/Programas/iconos%20v3/P16.jpg)
 ---
-![P17.jpg](/Programas/iconos v3/P17.jpg)
+![P17.jpg](/Programas/iconos%20v3/P17.jpg)
 ---
-![P40.jpg](/Programas/iconos v3/P40.jpg)
+![P40.jpg](/Programas/iconos%20v3/P40.jpg)
 ---
-![P41.jpg](/Programas/iconos v3/P41.jpg)
+![P41.jpg](/Programas/iconos%20v3/P41.jpg)
 ---
-![P42.jpg](/Programas/iconos v3/P42.jpg)
+![P42.jpg](/Programas/iconos%20v3/P42.jpg)
 ---
-![P43.jpg](/Programas/iconos v3/P43.jpg)
+![P43.jpg](/Programas/iconos%20v3/P43.jpg)
 ---
-![P44.jpg](/Programas/iconos v3/P44.jpg)
+![P44.jpg](/Programas/iconos%20v3/P44.jpg)
 ---
-![P45.jpg](/Programas/iconos v3/P45.jpg)
+![P45.jpg](/Programas/iconos%20v3/P45.jpg)
 ---
-![P46.jpg](/Programas/iconos v3/P46.jpg)
+![P46.jpg](/Programas/iconos%20v3/P46.jpg)
 ---
-![P48.jpg](/Programas/iconos v3/P48.jpg)
+![P48.jpg](/Programas/iconos%20v3/P48.jpg)
 ---
-![P49.jpg](/Programas/iconos v3/P49.jpg)
+![P49.jpg](/Programas/iconos%20v3/P49.jpg)
 ---
-![P4A.jpg](/Programas/iconos v3/P4A.jpg)
+![P4A.jpg](/Programas/iconos%20v3/P4A.jpg)
 ---
-![P4B.jpg](/Programas/iconos v3/P4B.jpg)
+![P4B.jpg](/Programas/iconos%20v3/P4B.jpg)
 ---
-![P4C.jpg](/Programas/iconos v3/P4C.jpg)
+![P4C.jpg](/Programas/iconos%20v3/P4C.jpg)
 ---
-![P4D.jpg](/Programas/iconos v3/P4D.jpg)
+![P4D.jpg](/Programas/iconos%20v3/P4D.jpg)
 ---
-![PF.ico](/Programas/iconos v3/PF.ico)
+![PF.ico](/Programas/iconos%20v3/PF.ico)
 ---
-![PF.png](/Programas/iconos v3/PF.png)
+![PF.png](/Programas/iconos%20v3/PF.png)
 ---
-![PT.ico](/Programas/iconos v3/PT.ico)
+![PT.ico](/Programas/iconos%20v3/PT.ico)
 ---
-![PT.png](/Programas/iconos v3/PT.png)
+![PT.png](/Programas/iconos%20v3/PT.png)
 ---
-![arrow_left.ico](/Programas/iconos v3/arrow_left.ico)
+![arrow_left.ico](/Programas/iconos%20v3/arrow_left.ico)
 ---
-![arrow_left.png](/Programas/iconos v3/arrow_left.png)
+![arrow_left.png](/Programas/iconos%20v3/arrow_left.png)
 ---
-![arrow_right.ico](/Programas/iconos v3/arrow_right.ico)
+![arrow_right.ico](/Programas/iconos%20v3/arrow_right.ico)
 ---
-![arrow_right.png](/Programas/iconos v3/arrow_right.png)
+![arrow_right.png](/Programas/iconos%20v3/arrow_right.png)
 ---
-![backward.ico](/Programas/iconos v3/backward.ico)
+![backward.ico](/Programas/iconos%20v3/backward.ico)
 ---
-![check.ico](/Programas/iconos v3/check.ico)
+![check.ico](/Programas/iconos%20v3/check.ico)
 ---
-![check.png](/Programas/iconos v3/check.png)
+![check.png](/Programas/iconos%20v3/check.png)
 ---
-![close.ico](/Programas/iconos v3/close.ico)
+![close.ico](/Programas/iconos%20v3/close.ico)
 ---
-![close.png](/Programas/iconos v3/close.png)
+![close.png](/Programas/iconos%20v3/close.png)
 ---
-![config.ico](/Programas/iconos v3/config.ico)
+![config.ico](/Programas/iconos%20v3/config.ico)
 ---
-![config.png](/Programas/iconos v3/config.png)
+![config.png](/Programas/iconos%20v3/config.png)
 ---
-![delete_row.ico](/Programas/iconos v3/delete_row.ico)
+![delete_row.ico](/Programas/iconos%20v3/delete_row.ico)
 ---
-![delete_row.png](/Programas/iconos v3/delete_row.png)
+![delete_row.png](/Programas/iconos%20v3/delete_row.png)
 ---
-![edit.ico](/Programas/iconos v3/edit.ico)
+![edit.ico](/Programas/iconos%20v3/edit.ico)
 ---
-![edit.png](/Programas/iconos v3/edit.png)
+![edit.png](/Programas/iconos%20v3/edit.png)
 ---
-![flashdisk.ico](/Programas/iconos v3/flashdisk.ico)
+![flashdisk.ico](/Programas/iconos%20v3/flashdisk.ico)
 ---
-![flashdisk.png](/Programas/iconos v3/flashdisk.png)
+![flashdisk.png](/Programas/iconos%20v3/flashdisk.png)
 ---
-![forward.ico](/Programas/iconos v3/forward.ico)
+![forward.ico](/Programas/iconos%20v3/forward.ico)
 ---
-![forward.png](/Programas/iconos v3/forward.png)
+![forward.png](/Programas/iconos%20v3/forward.png)
 ---
-![insert_row.ico](/Programas/iconos v3/insert_row.ico)
+![insert_row.ico](/Programas/iconos%20v3/insert_row.ico)
 ---
-![insert_row.png](/Programas/iconos v3/insert_row.png)
+![insert_row.png](/Programas/iconos%20v3/insert_row.png)
 ---
-![next.ico](/Programas/iconos v3/next.ico)
+![network.ico](/Programas/iconos%20v3/network.ico)
 ---
-![next.png](/Programas/iconos v3/next.png)
+![network.png](/Programas/iconos%20v3/network.png)
 ---
-![pause.ico](/Programas/iconos v3/pause.ico)
+![next.ico](/Programas/iconos%20v3/next.ico)
 ---
-![pendrive.ico](/Programas/iconos v3/pendrive.ico)
+![next.png](/Programas/iconos%20v3/next.png)
 ---
-![play.ico](/Programas/iconos v3/play.ico)
+![pause.ico](/Programas/iconos%20v3/pause.ico)
 ---
-![play.png](/Programas/iconos v3/play.png)
+![pendrive.ico](/Programas/iconos%20v3/pendrive.ico)
 ---
-![previous.ico](/Programas/iconos v3/previous.ico)
+![play.ico](/Programas/iconos%20v3/play.ico)
 ---
-![screen.ico](/Programas/iconos v3/screen.ico)
+![play.png](/Programas/iconos%20v3/play.png)
 ---
-![spin_left.ico](/Programas/iconos v3/spin_left.ico)
+![previous.ico](/Programas/iconos%20v3/previous.ico)
 ---
-![spin_right.ico](/Programas/iconos v3/spin_right.ico)
+![screen.ico](/Programas/iconos%20v3/screen.ico)
 ---
-![stop.ico](/Programas/iconos v3/stop.ico)
+![spin_left.ico](/Programas/iconos%20v3/spin_left.ico)
 ---
-![stop.png](/Programas/iconos v3/stop.png)
+![spin_right.ico](/Programas/iconos%20v3/spin_right.ico)
 ---
-![table.ico](/Programas/iconos v3/table.ico)
+![stop.ico](/Programas/iconos%20v3/stop.ico)
 ---
-![table.png](/Programas/iconos v3/table.png)
+![stop.png](/Programas/iconos%20v3/stop.png)
 ---
-![table_edit.ico](/Programas/iconos v3/table_edit.ico)
+![table.ico](/Programas/iconos%20v3/table.ico)
 ---
-![table_edit.png](/Programas/iconos v3/table_edit.png)
+![table.png](/Programas/iconos%20v3/table.png)
 ---
-![table_erase.ico](/Programas/iconos v3/table_erase.ico)
+![table_edit.ico](/Programas/iconos%20v3/table_edit.ico)
 ---
-![table_erase.png](/Programas/iconos v3/table_erase.png)
+![table_edit.png](/Programas/iconos%20v3/table_edit.png)
 ---
-![table_multiple.ico](/Programas/iconos v3/table_multiple.ico)
+![table_erase.ico](/Programas/iconos%20v3/table_erase.ico)
 ---
-![table_multiple.png](/Programas/iconos v3/table_multiple.png)
+![table_erase.png](/Programas/iconos%20v3/table_erase.png)
 ---
-![test.ico](/Programas/iconos v3/test.ico)
+![table_multiple.ico](/Programas/iconos%20v3/table_multiple.ico)
 ---
-![test.png](/Programas/iconos v3/test.png)
+![table_multiple.png](/Programas/iconos%20v3/table_multiple.png)
+---
+![test.ico](/Programas/iconos%20v3/test.ico)
+---
+![test.png](/Programas/iconos%20v3/test.png)
 ---
